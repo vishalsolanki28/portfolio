@@ -1,0 +1,102 @@
+body{
+    background-color: #374970;
+    }
+    .navbar{
+    background-color: tan;
+    border-radius: 55px;
+    padding:  3px 2px;
+    }
+    .navbar ul{
+    overflow: auto;
+    }
+    .navbar li{
+    list-style: none;
+    float: left;
+    margin-right: 50px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    .navbar li a{
+    color: black;
+    }
+    .buttons{
+    color:black;
+    float: right;
+    }
+    .name{
+    font-size: 2cm;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    color: white;
+    }
+    .bio{
+    font-family: ink free;
+    font-size: .7cm;
+    
+    color: white;
+    }
+    a{
+    text-decoration: none;
+    }
+    hr{
+    border-color: white;
+    border-style: dotted;
+    border-radius: 2cm;
+    }
+    .button{
+    font-size: 1cm;
+    color: white;
+    height: 1cm;
+    }
+    
+    .expe{
+    }
+    .middle
+    {
+    padding:1%;
+    align-self: center;
+    }
+    .btn
+    {
+    width: 50cm;
+    font-size: x-large;
+    color: white;
+    }
+    .btn a{
+    color: white    ;
+    }
+    
+    .prog{
+    margin-top: cm;
+    }
+    .prog img{
+    width: 5cm;
+    }
+    img{
+    border-style: ;
+    cursor: grab;
+    border-radius: 10%;
+    }
+   .othersk{
+
+
+
+    font-family: ink free;
+    font-size: .7cm;
+    
+    color: white;
+   }
+
+   #educ li{
+list-style-type: none;
+color: wheat;
+   }
+   
+   #educ i{
+
+color: turquoise;
+font-size: xxx-large;
+
+
+
+   }
